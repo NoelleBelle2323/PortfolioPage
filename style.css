@@ -1,0 +1,35 @@
+#pink {
+	color: "913059";
+}
+
+#orange {
+	color: "AA4C38";
+}
+
+#green {
+	color: "297B48";
+}
+
+#lgtGreen {
+	color: "6E9B33";
+}
+
+h1 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.56em;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.25em;
+}
+
+
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+}
+
+footer {
+	height: 3.13em;
+}
